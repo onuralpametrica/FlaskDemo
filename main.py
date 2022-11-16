@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def hello_world():
-    demo_variable = 'hoşgeldiniz'
+    demo_variable = 'hi'
     return demo_variable
 
 @app.route('/name-username', methods=['POST'])
