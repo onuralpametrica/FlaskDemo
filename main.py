@@ -19,7 +19,3 @@ def get_name_surname():
 
 app.run(host='localhost', port=5000)
 
-#Biz sadece postmanden get atalım, ekranda hoşgeldiniz yazsın dönen repsonse
-
-#Sonra post atalım post attığımız body’deki isimi soy ismi alsın toplasın
-#öyle response dönsün
