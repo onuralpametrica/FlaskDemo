@@ -1,2 +1,0 @@
-name = 'Onuralp'
-surname = 'Aslaner'
